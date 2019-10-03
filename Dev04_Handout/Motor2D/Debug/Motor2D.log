@@ -1,0 +1,10 @@
+﻿  j1App.cpp
+  j1Map.cpp
+C:\Users\preda\OneDrive\Escritorio\Dev04_Handout\Motor2D\j1Map.h(50,10): warning C4552: "-": el resultado de la expresión no se usa
+C:\Users\preda\OneDrive\Escritorio\Dev04_Handout\Motor2D\j1Map.h(50,10): warning C4552: "-": el resultado de la expresión no se usa
+C:\Users\preda\OneDrive\Escritorio\Dev04_Handout\Motor2D\j1Map.cpp(44,26): warning C4018: '<': no coinciden signed/unsigned
+  j1Scene.cpp
+C:\Users\preda\OneDrive\Escritorio\Dev04_Handout\Motor2D\j1Map.cpp(46,33): warning C4018: '<': no coinciden signed/unsigned
+  Generando código...
+C:\Users\preda\OneDrive\Escritorio\Dev04_Handout\Motor2D\j1Map.h(50,10): warning C4552: "-": el resultado de la expresión no se usa
+  Motor2D.vcxproj -> C:\Users\preda\OneDrive\Escritorio\Dev04_Handout\Debug\Motor 2D.exe
